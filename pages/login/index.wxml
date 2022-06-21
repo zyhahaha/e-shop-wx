@@ -1,0 +1,8 @@
+<!--pages/login/index.wxml-->
+<view class="login">
+  <text>请登录</text>
+  <input class="name" auto-focus placeholder="将输入用户名"/>
+
+</view>
+
+

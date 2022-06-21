@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/login/index",
     "pages/home/index",
     "pages/index-old/index",
     "pages/logs/logs",
@@ -16,12 +17,14 @@
     "selectedColor": "#157658",
     "backgroundColor": "#fff",
     "list": [{
-      "pagePath": "pages/home/index",
-      "text": "首页"
-    }, {
-      "pagePath": "pages/coupon/index",
-      "text": "接口"
-    }]
+        "pagePath": "pages/home/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/coupon/index",
+        "text": "接口"
+      }
+    ]
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"

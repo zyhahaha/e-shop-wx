@@ -1,0 +1,14 @@
+/* pages/login/index.wxss */
+.name {
+  width: 6.5rpx;
+  height: 0.9rpx;
+  border: 1px solid #818691;
+  border-radius: 12px;
+  margin-bottom: 0.3rpx;
+  margin-top: 2.4rpx;
+  padding: 0.27rpx 0rpx 0.26rpx 0.3rpx;
+  box-sizing: border-box;
+  color: #818691;
+  font-size: 0.26rpx;
+  outline: 0;
+}
