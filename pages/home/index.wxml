@@ -1,0 +1,16 @@
+<!--pages/home/index.wxml-->
+<view class="home">
+    <view>
+      <view>
+        <image style="width: 100%;" mode="widthFix" src="/assets/home/sale.png"></image>
+      </view>
+      <view class="get-coupon">
+        <image style="width: 100%;" mode="widthFix" src="/assets/home/getcoupon.png" bindtap="goCouponView"></image>
+        <!-- <img @click="$router.push('/coupon/get')" src="@/assets/getcoupon.png" alt="" style="width: 100%" /> -->
+      </view>
+      <view class="recommend">- 热门推荐 -</view>
+      <!-- <view>
+        <GoodsList />
+      </view> -->
+    </view>
+  </view>

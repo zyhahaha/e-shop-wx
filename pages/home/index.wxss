@@ -1,0 +1,15 @@
+/* pages/home/index.wxss */
+.home {
+  background-color: #f7f8fb
+}
+.recommend {
+  padding: 0.4rem 0px;
+  margin: 0.16rem 0px;
+  background-color: #fff;
+
+  font-size: 0.24rem;
+  text-align: center;
+}
+.get-coupon {
+  margin-top: 0.2rem;
+}
